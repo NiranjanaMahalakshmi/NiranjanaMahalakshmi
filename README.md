@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiranjanaMahalakshmi
-- 👀 I’m interested in Data Science and Coding
+- 👀 I’m interested in Data Science and Programming
 - 🌱 I’m currently learning BCA 
 
 
